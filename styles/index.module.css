@@ -1,0 +1,45 @@
+
+.input1{
+    display: flex;
+    position: relative;
+    left:40px;
+    top: 100px;
+    
+}
+.input2{
+    display: flex;
+    text-align: center;
+    position: relative;
+    left:40px;
+    top: 130px;
+    
+}
+.Box{
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 500px;
+    top: 100px;
+
+
+
+    background: rgba( 44, 27, 218, 0.25 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+    
+}
+.h1{
+position: relative;
+right: 110px;
+color: white;
+top: 50px;
+}
+.button{
+    position: relative;
+    top: 150px;
+    color: white;
+}
